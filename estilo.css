@@ -1,0 +1,54 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-size: 1em;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	background: #e6e6e6;
+}
+
+#area-cabecalho {
+    margin-bottom: 5px;
+    background-color: black;
+}
+
+#area-menu {
+    font-size: 1em;
+    text-align: center;
+}
+
+#area-logo {
+    margin-left: 20px;
+    padding-top: 10px;
+}
+
+#area-menu, #area-logo {
+    padding: 5px;
+    margin-bottom: -30px;
+}
+
+/*  ************** Configurações gerais de links *********** */
+
+a {
+    margin-top: -30px;
+    padding: 5px;
+    text-decoration: none;
+    padding-bottom: 50px;
+    padding-bottom: 50px;
+}
+
+
+a:link, a:visited {
+    color: orange;
+    margin-bottom: 5px;
+}
+
+a:hover {
+    padding: 10px;
+    text-decoration: underline;
+    background-color: white;
+    color: blue;
+}
+
